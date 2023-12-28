@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webmaaiill/static/css/main.c7608fba.css",
+    "main.js": "/webmaaiill/static/js/main.b5963500.js",
+    "static/css/484.ca13bd9d.chunk.css": "/webmaaiill/static/css/484.ca13bd9d.chunk.css",
+    "static/js/484.88b51f16.chunk.js": "/webmaaiill/static/js/484.88b51f16.chunk.js",
+    "static/js/787.a7f15662.chunk.js": "/webmaaiill/static/js/787.a7f15662.chunk.js",
+    "static/js/336.a7e6ac92.chunk.js": "/webmaaiill/static/js/336.a7e6ac92.chunk.js",
+    "static/media/hobspot-loader.webp": "/webmaaiill/static/media/hobspot-loader.b653093eceea45b8803d.webp",
+    "index.html": "/webmaaiill/index.html",
+    "main.c7608fba.css.map": "/webmaaiill/static/css/main.c7608fba.css.map",
+    "main.b5963500.js.map": "/webmaaiill/static/js/main.b5963500.js.map",
+    "484.ca13bd9d.chunk.css.map": "/webmaaiill/static/css/484.ca13bd9d.chunk.css.map",
+    "484.88b51f16.chunk.js.map": "/webmaaiill/static/js/484.88b51f16.chunk.js.map",
+    "787.a7f15662.chunk.js.map": "/webmaaiill/static/js/787.a7f15662.chunk.js.map",
+    "336.a7e6ac92.chunk.js.map": "/webmaaiill/static/js/336.a7e6ac92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7608fba.css",
+    "static/js/main.b5963500.js"
+  ]
+}
