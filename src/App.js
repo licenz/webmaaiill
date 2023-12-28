@@ -7,6 +7,8 @@ import { MdLock } from 'react-icons/md';
 import $ from 'jquery';
 import Loader from "./Loader/Loader";
 
+// adjusted the github pg deployment for upload jdj
+
 const App = ()=>{
 
   const reloadPreloader = ()=> window.location.reload();
